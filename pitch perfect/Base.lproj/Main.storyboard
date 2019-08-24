@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Record Sounds Controller-->
+        <!--Pitch Perfect-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="RecordSoundsController" customModule="pitch_perfect" customModuleProvider="target" sceneMemberID="viewController">
@@ -54,7 +54,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" id="lui-R7-e9b"/>
+                    <navigationItem key="navigationItem" title="Pitch Perfect" id="lui-R7-e9b"/>
                     <connections>
                         <outlet property="recordButton" destination="Qh3-Qg-49f" id="U2g-dP-xcd"/>
                         <outlet property="recordingLabel" destination="Fu2-gQ-ErW" id="tVz-mz-O7t"/>
